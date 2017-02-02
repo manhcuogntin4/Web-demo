@@ -10,3 +10,5 @@ make distribute
 
 Add the LD_LIBRARY_PATH for the rc3 file.
 
+Compile faster RCNN with option GPU
+
