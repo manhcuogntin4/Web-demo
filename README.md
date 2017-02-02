@@ -8,3 +8,5 @@ make all
 make pycaffe
 make distribute
 
+Add the LD_LIBRARY_PATH for the rc3 file.
+
