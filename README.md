@@ -10,5 +10,10 @@ make distribute
 
 Add the LD_LIBRARY_PATH for the rc3 file.
 
-Compile faster RCNN with option GPU
+Compile faster RCNN with option CPU
+
+Install OpenCV
+
+Add PYTHON PATH
+/home/ubuntu/web-demo-version3.0/caffe-fast-rcnn/python
 
